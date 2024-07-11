@@ -28,7 +28,7 @@ class _ChatScreenState extends State<ChatScreen> {
       headers: {
         'Content-Type': 'application/json',
         'Authorization':
-            'Bearer sk-proj-NEA5dgFSZ06CnBZ2YeJuT3BlbkFJH2MsS1EVbNyE1BwsX4P8',
+            'Bearer',
       },
       body: jsonEncode({
         'model': 'gpt-4',
