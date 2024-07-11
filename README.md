@@ -2,10 +2,10 @@
 <table>
   <tr>
   <td>
-<img src="captures/1.png">
+<img src="images/lolo.png">
 </td>
 <td>
-<img src="captures/2.png">
+<img src="images/lolo.png">
 </td>
 </tr>
 </table>
