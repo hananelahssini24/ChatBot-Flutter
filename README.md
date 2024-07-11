@@ -1,7 +1,11 @@
-<h2>Injectiond es dépendances et Inversion de contrôle</h2>
-<img src="images/1.PNG" alt="">
-<img src="images/2.PNG" alt="">
-<hr/>
-<img src="images/3.PNG" alt="">
-<img src="images/4.PNG" alt="">
-<hr/>
+<h2>Mobile Chat Bot App with Flutter and Chat GPT</h2>
+<table>
+  <tr>
+  <td>
+<img src="captures/1.png">
+</td>
+<td>
+<img src="captures/2.png">
+</td>
+</tr>
+</table>
