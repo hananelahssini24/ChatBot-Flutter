@@ -2,10 +2,15 @@
 <table>
   <tr>
   <td>
-<img src="images/back.jpg">
+<img src="captures/back.jpg">
 </td>
 <td>
-<img src="images/back.jpg">
+<img src="captures/1.png">
+</td>
+<td>
+<img src="captures/2.png">
 </td>
 </tr>
 </table>
+
+
